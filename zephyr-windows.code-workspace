@@ -1,5 +1,7 @@
 /*
    Copyright 2023 Glenn Andrews
+   Based on the original version by Jonathan Beri:
+   https://github.com/beriberikix/zephyr-vscode-example
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
